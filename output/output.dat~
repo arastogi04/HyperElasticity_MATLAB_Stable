@@ -1,0 +1,53 @@
+
+ FES - Finite Element Solver 
+ MATLAB version 3/23/2015 
+ v1 end date: 4/3/2015 
+ v1 w/ parallel feature,end date: 4/6/2015 
+ v1 Method of solving the system is modified,end date: 4/8/2015 
+
+
+ 
+Element type:      QUAD4 	 Node Number per element:  4 
+Total node number:      4 	 Total element number:      1
+
+ 
+
+ STEP:     1
+Iter:   1 	 r: 2.00e+01 	 N(r): 1.00e+00 	 time: 1.05e-01 
+Iter:   2 	 r: 1.33e-15 	 N(r): 6.66e-17 	 time: 1.11e-01 
+
+ STEP:     2
+Iter:   1 	 r: 2.00e+01 	 N(r): 1.00e+00 	 time: 1.13e-01 
+Iter:   2 	 r: 1.11e-15 	 N(r): 5.57e-17 	 time: 1.13e-01 
+
+ STEP:     3
+Iter:   1 	 r: 2.00e+01 	 N(r): 1.00e+00 	 time: 1.14e-01 
+Iter:   2 	 r: 1.72e-15 	 N(r): 8.58e-17 	 time: 1.15e-01 
+
+ STEP:     4
+Iter:   1 	 r: 2.00e+01 	 N(r): 1.00e+00 	 time: 1.16e-01 
+Iter:   2 	 r: 2.00e-15 	 N(r): 1.00e-16 	 time: 1.16e-01 
+
+ STEP:     5
+Iter:   1 	 r: 2.00e+01 	 N(r): 1.00e+00 	 time: 1.17e-01 
+Iter:   2 	 r: 7.70e-14 	 N(r): 3.85e-15 	 time: 1.18e-01 
+
+ STEP:     6
+Iter:   1 	 r: 2.00e+01 	 N(r): 1.00e+00 	 time: 1.18e-01 
+Iter:   2 	 r: 1.16e-13 	 N(r): 5.78e-15 	 time: 1.19e-01 
+
+ STEP:     7
+Iter:   1 	 r: 2.00e+01 	 N(r): 1.00e+00 	 time: 1.20e-01 
+Iter:   2 	 r: 1.16e-13 	 N(r): 5.81e-15 	 time: 1.21e-01 
+
+ STEP:     8
+Iter:   1 	 r: 2.00e+01 	 N(r): 1.00e+00 	 time: 1.21e-01 
+Iter:   2 	 r: 1.15e-13 	 N(r): 5.77e-15 	 time: 1.22e-01 
+
+ STEP:     9
+Iter:   1 	 r: 2.00e+01 	 N(r): 1.00e+00 	 time: 1.23e-01 
+Iter:   2 	 r: 1.16e-13 	 N(r): 5.78e-15 	 time: 1.23e-01 
+
+ STEP:    10
+Iter:   1 	 r: 2.00e+01 	 N(r): 1.00e+00 	 time: 1.24e-01 
+Iter:   2 	 r: 1.16e-15 	 N(r): 5.81e-17 	 time: 1.25e-01 

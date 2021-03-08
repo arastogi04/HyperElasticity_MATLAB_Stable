@@ -1,0 +1,63 @@
+
+ FES - Finite Element Solver 
+ MATLAB version 3/23/2015 
+ v1 end date: 4/3/2015 
+ v1 w/ parallel feature,end date: 4/6/2015 
+ v1 Method of solving the system is modified,end date: 4/8/2015 
+
+
+ 
+Element type:     BRICK8 	 Node Number per element:  8 
+Total node number:    512 	 Total element number:    343
+
+ 
+
+ STEP:     1
+Iter:   1 	 r: 2.09e+01 	 N(r): 1.00e+00 	 time: 4.44e-01 
+Iter:   2 	 r: 2.14e-01 	 N(r): 1.03e-02 	 time: 7.04e-01 
+Iter:   3 	 r: 3.00e-04 	 N(r): 1.44e-05 	 time: 9.49e-01 
+Iter:   4 	 r: 3.52e-07 	 N(r): 1.69e-08 	 time: 1.20e+00 
+Iter:   5 	 r: 5.99e-14 	 N(r): 2.87e-15 	 time: 1.45e+00 
+
+ STEP:     2
+Iter:   1 	 r: 1.91e+01 	 N(r): 1.00e+00 	 time: 1.70e+00 
+Iter:   2 	 r: 2.02e-01 	 N(r): 1.06e-02 	 time: 1.95e+00 
+Iter:   3 	 r: 2.38e-04 	 N(r): 1.24e-05 	 time: 2.18e+00 
+Iter:   4 	 r: 2.34e-07 	 N(r): 1.23e-08 	 time: 2.39e+00 
+Iter:   5 	 r: 5.71e-14 	 N(r): 2.98e-15 	 time: 2.63e+00 
+
+ STEP:     3
+Iter:   1 	 r: 1.76e+01 	 N(r): 1.00e+00 	 time: 2.87e+00 
+Iter:   2 	 r: 1.91e-01 	 N(r): 1.09e-02 	 time: 3.10e+00 
+Iter:   3 	 r: 1.90e-04 	 N(r): 1.08e-05 	 time: 3.38e+00 
+Iter:   4 	 r: 1.50e-07 	 N(r): 8.52e-09 	 time: 3.62e+00 
+Iter:   5 	 r: 6.08e-14 	 N(r): 3.45e-15 	 time: 3.85e+00 
+
+ STEP:     4
+Iter:   1 	 r: 1.63e+01 	 N(r): 1.00e+00 	 time: 4.11e+00 
+Iter:   2 	 r: 1.81e-01 	 N(r): 1.11e-02 	 time: 4.35e+00 
+Iter:   3 	 r: 1.53e-04 	 N(r): 9.38e-06 	 time: 4.60e+00 
+Iter:   4 	 r: 9.38e-08 	 N(r): 5.74e-09 	 time: 4.85e+00 
+Iter:   5 	 r: 6.32e-14 	 N(r): 3.87e-15 	 time: 5.09e+00 
+
+ STEP:     5
+Iter:   1 	 r: 1.52e+01 	 N(r): 1.00e+00 	 time: 5.35e+00 
+Iter:   2 	 r: 1.72e-01 	 N(r): 1.13e-02 	 time: 5.59e+00 
+Iter:   3 	 r: 1.25e-04 	 N(r): 8.20e-06 	 time: 5.84e+00 
+Iter:   4 	 r: 5.76e-08 	 N(r): 3.78e-09 	 time: 6.10e+00 
+Iter:   5 	 r: 6.59e-14 	 N(r): 4.33e-15 	 time: 6.35e+00 
+
+ STEP:     6
+Iter:   1 	 r: 6.25e-14 	 N(r): 1.00e+00 	 time: 6.61e+00 
+
+ STEP:     7
+Iter:   1 	 r: 6.32e-14 	 N(r): 1.00e+00 	 time: 6.87e+00 
+
+ STEP:     8
+Iter:   1 	 r: 6.10e-14 	 N(r): 1.00e+00 	 time: 7.13e+00 
+
+ STEP:     9
+Iter:   1 	 r: 6.07e-14 	 N(r): 1.00e+00 	 time: 7.38e+00 
+
+ STEP:    10
+Iter:   1 	 r: 6.24e-14 	 N(r): 1.00e+00 	 time: 7.65e+00 

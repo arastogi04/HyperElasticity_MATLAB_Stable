@@ -1,0 +1,341 @@
+
+ FES - Finite Element Solver 
+ MATLAB version 3/23/2015 
+ v2 mixed brick 8 element is added: 04/25/2015 
+ v2 bug how to calculate deformation gradient: 04/21/2015 
+ v2 1 point integration is added: 04/20/2015 
+ 
+Element type:      QUAD4 	 Node Number per element:  4 
+Total node number:     63 	 Total element number:     40
+
+ 
+
+ STEP:     1
+Iter:   1 	 r: 2.39e-01 	 N(r): 1.00e+00 	 time: 5.40e-01 
+Iter:   2 	 r: 3.00e-05 	 N(r): 1.26e-04 	 time: 5.88e-01 
+Iter:   3 	 r: 1.58e-10 	 N(r): 6.63e-10 	 time: 6.31e-01 
+
+ STEP:     2
+Iter:   1 	 r: 4.95e-01 	 N(r): 1.00e+00 	 time: 6.84e-01 
+Iter:   2 	 r: 2.44e-01 	 N(r): 4.93e-01 	 time: 7.28e-01 
+Iter:   3 	 r: 3.20e-05 	 N(r): 6.47e-05 	 time: 7.69e-01 
+Iter:   4 	 r: 1.78e-10 	 N(r): 3.61e-10 	 time: 8.10e-01 
+
+ STEP:     3
+Iter:   1 	 r: 4.94e-01 	 N(r): 1.00e+00 	 time: 8.54e-01 
+Iter:   2 	 r: 2.54e-01 	 N(r): 5.14e-01 	 time: 8.95e-01 
+Iter:   3 	 r: 3.56e-05 	 N(r): 7.21e-05 	 time: 9.35e-01 
+Iter:   4 	 r: 2.32e-10 	 N(r): 4.70e-10 	 time: 9.75e-01 
+
+ STEP:     4
+Iter:   1 	 r: 4.94e-01 	 N(r): 1.00e+00 	 time: 1.02e+00 
+Iter:   2 	 r: 2.65e-01 	 N(r): 5.37e-01 	 time: 1.06e+00 
+Iter:   3 	 r: 3.98e-05 	 N(r): 8.06e-05 	 time: 1.10e+00 
+Iter:   4 	 r: 2.90e-10 	 N(r): 5.88e-10 	 time: 1.14e+00 
+
+ STEP:     5
+Iter:   1 	 r: 4.94e-01 	 N(r): 1.00e+00 	 time: 1.18e+00 
+Iter:   2 	 r: 2.78e-01 	 N(r): 5.62e-01 	 time: 1.22e+00 
+Iter:   3 	 r: 4.47e-05 	 N(r): 9.05e-05 	 time: 1.26e+00 
+Iter:   4 	 r: 3.61e-10 	 N(r): 7.32e-10 	 time: 1.30e+00 
+
+ STEP:     6
+Iter:   1 	 r: 4.93e-01 	 N(r): 1.00e+00 	 time: 1.34e+00 
+Iter:   2 	 r: 2.91e-01 	 N(r): 5.89e-01 	 time: 1.38e+00 
+Iter:   3 	 r: 5.04e-05 	 N(r): 1.02e-04 	 time: 1.42e+00 
+Iter:   4 	 r: 4.77e-10 	 N(r): 9.66e-10 	 time: 1.46e+00 
+
+ STEP:     7
+Iter:   1 	 r: 4.93e-01 	 N(r): 1.00e+00 	 time: 1.51e+00 
+Iter:   2 	 r: 3.05e-01 	 N(r): 6.19e-01 	 time: 1.55e+00 
+Iter:   3 	 r: 5.70e-05 	 N(r): 1.16e-04 	 time: 1.59e+00 
+Iter:   4 	 r: 6.16e-10 	 N(r): 1.25e-09 	 time: 1.63e+00 
+
+ STEP:     8
+Iter:   1 	 r: 4.93e-01 	 N(r): 1.00e+00 	 time: 1.67e+00 
+Iter:   2 	 r: 3.21e-01 	 N(r): 6.51e-01 	 time: 1.71e+00 
+Iter:   3 	 r: 6.49e-05 	 N(r): 1.32e-04 	 time: 1.75e+00 
+Iter:   4 	 r: 8.27e-10 	 N(r): 1.68e-09 	 time: 1.79e+00 
+
+ STEP:     9
+Iter:   1 	 r: 4.92e-01 	 N(r): 1.00e+00 	 time: 1.83e+00 
+Iter:   2 	 r: 3.38e-01 	 N(r): 6.87e-01 	 time: 1.87e+00 
+Iter:   3 	 r: 7.43e-05 	 N(r): 1.51e-04 	 time: 1.91e+00 
+Iter:   4 	 r: 1.11e-09 	 N(r): 2.25e-09 	 time: 1.95e+00 
+
+ STEP:    10
+Iter:   1 	 r: 4.92e-01 	 N(r): 1.00e+00 	 time: 1.99e+00 
+Iter:   2 	 r: 3.57e-01 	 N(r): 7.26e-01 	 time: 2.03e+00 
+Iter:   3 	 r: 8.55e-05 	 N(r): 1.74e-04 	 time: 2.07e+00 
+Iter:   4 	 r: 1.51e-09 	 N(r): 3.07e-09 	 time: 2.11e+00 
+
+ STEP:    11
+Iter:   1 	 r: 4.91e-01 	 N(r): 1.00e+00 	 time: 2.15e+00 
+Iter:   2 	 r: 3.78e-01 	 N(r): 7.69e-01 	 time: 2.19e+00 
+Iter:   3 	 r: 9.91e-05 	 N(r): 2.02e-04 	 time: 2.23e+00 
+Iter:   4 	 r: 2.08e-09 	 N(r): 4.24e-09 	 time: 2.27e+00 
+
+ STEP:    12
+Iter:   1 	 r: 4.91e-01 	 N(r): 1.00e+00 	 time: 2.31e+00 
+Iter:   2 	 r: 4.01e-01 	 N(r): 8.17e-01 	 time: 2.35e+00 
+Iter:   3 	 r: 1.16e-04 	 N(r): 2.35e-04 	 time: 2.39e+00 
+Iter:   4 	 r: 2.88e-09 	 N(r): 5.87e-09 	 time: 2.43e+00 
+
+ STEP:    13
+Iter:   1 	 r: 4.90e-01 	 N(r): 1.00e+00 	 time: 2.48e+00 
+Iter:   2 	 r: 4.27e-01 	 N(r): 8.71e-01 	 time: 2.52e+00 
+Iter:   3 	 r: 1.36e-04 	 N(r): 2.77e-04 	 time: 2.56e+00 
+Iter:   4 	 r: 4.11e-09 	 N(r): 8.38e-09 	 time: 2.60e+00 
+
+ STEP:    14
+Iter:   1 	 r: 4.90e-01 	 N(r): 1.00e+00 	 time: 2.64e+00 
+Iter:   2 	 r: 4.56e-01 	 N(r): 9.32e-01 	 time: 2.68e+00 
+Iter:   3 	 r: 1.61e-04 	 N(r): 3.29e-04 	 time: 2.72e+00 
+Iter:   4 	 r: 5.95e-09 	 N(r): 1.22e-08 	 time: 2.76e+00 
+
+ STEP:    15
+Iter:   1 	 r: 4.89e-01 	 N(r): 1.00e+00 	 time: 2.80e+00 
+Iter:   2 	 r: 4.89e-01 	 N(r): 1.00e+00 	 time: 2.84e+00 
+Iter:   3 	 r: 1.93e-04 	 N(r): 3.94e-04 	 time: 2.88e+00 
+Iter:   4 	 r: 8.81e-09 	 N(r): 1.80e-08 	 time: 2.92e+00 
+
+ STEP:    16
+Iter:   1 	 r: 4.88e-01 	 N(r): 1.00e+00 	 time: 2.96e+00 
+Iter:   2 	 r: 5.26e-01 	 N(r): 1.08e+00 	 time: 3.00e+00 
+Iter:   3 	 r: 2.33e-04 	 N(r): 4.78e-04 	 time: 3.04e+00 
+Iter:   4 	 r: 1.33e-08 	 N(r): 2.73e-08 	 time: 3.08e+00 
+Iter:   5 	 r: 3.46e-11 	 N(r): 7.10e-11 	 time: 3.12e+00 
+
+ STEP:    17
+Iter:   1 	 r: 4.87e-01 	 N(r): 1.00e+00 	 time: 3.16e+00 
+Iter:   2 	 r: 5.68e-01 	 N(r): 1.17e+00 	 time: 3.20e+00 
+Iter:   3 	 r: 2.85e-04 	 N(r): 5.86e-04 	 time: 3.24e+00 
+Iter:   4 	 r: 2.07e-08 	 N(r): 4.26e-08 	 time: 3.28e+00 
+Iter:   5 	 r: 3.66e-11 	 N(r): 7.51e-11 	 time: 3.32e+00 
+
+ STEP:    18
+Iter:   1 	 r: 4.86e-01 	 N(r): 1.00e+00 	 time: 3.36e+00 
+Iter:   2 	 r: 6.17e-01 	 N(r): 1.27e+00 	 time: 3.40e+00 
+Iter:   3 	 r: 3.53e-04 	 N(r): 7.27e-04 	 time: 3.44e+00 
+Iter:   4 	 r: 3.31e-08 	 N(r): 6.81e-08 	 time: 3.48e+00 
+Iter:   5 	 r: 4.02e-11 	 N(r): 8.28e-11 	 time: 3.52e+00 
+
+ STEP:    19
+Iter:   1 	 r: 4.84e-01 	 N(r): 1.00e+00 	 time: 3.56e+00 
+Iter:   2 	 r: 6.74e-01 	 N(r): 1.39e+00 	 time: 3.60e+00 
+Iter:   3 	 r: 4.44e-04 	 N(r): 9.16e-04 	 time: 3.64e+00 
+Iter:   4 	 r: 5.45e-08 	 N(r): 1.13e-07 	 time: 3.68e+00 
+Iter:   5 	 r: 3.59e-11 	 N(r): 7.42e-11 	 time: 3.72e+00 
+
+ STEP:    20
+Iter:   1 	 r: 4.83e-01 	 N(r): 1.00e+00 	 time: 3.76e+00 
+Iter:   2 	 r: 7.40e-01 	 N(r): 1.53e+00 	 time: 3.80e+00 
+Iter:   3 	 r: 5.66e-04 	 N(r): 1.17e-03 	 time: 3.84e+00 
+Iter:   4 	 r: 9.32e-08 	 N(r): 1.93e-07 	 time: 3.88e+00 
+Iter:   5 	 r: 4.36e-11 	 N(r): 9.03e-11 	 time: 3.92e+00 
+
+ STEP:    21
+Iter:   1 	 r: 4.80e-01 	 N(r): 1.00e+00 	 time: 3.97e+00 
+Iter:   2 	 r: 8.19e-01 	 N(r): 1.70e+00 	 time: 4.01e+00 
+Iter:   3 	 r: 7.36e-04 	 N(r): 1.53e-03 	 time: 4.04e+00 
+Iter:   4 	 r: 1.66e-07 	 N(r): 3.45e-07 	 time: 4.08e+00 
+Iter:   5 	 r: 3.79e-11 	 N(r): 7.89e-11 	 time: 4.12e+00 
+
+ STEP:    22
+Iter:   1 	 r: 4.78e-01 	 N(r): 1.00e+00 	 time: 4.17e+00 
+Iter:   2 	 r: 9.14e-01 	 N(r): 1.91e+00 	 time: 4.21e+00 
+Iter:   3 	 r: 9.76e-04 	 N(r): 2.04e-03 	 time: 4.25e+00 
+Iter:   4 	 r: 3.10e-07 	 N(r): 6.48e-07 	 time: 4.29e+00 
+Iter:   5 	 r: 3.54e-11 	 N(r): 7.40e-11 	 time: 4.33e+00 
+
+ STEP:    23
+Iter:   1 	 r: 4.75e-01 	 N(r): 1.00e+00 	 time: 4.37e+00 
+Iter:   2 	 r: 1.03e+00 	 N(r): 2.17e+00 	 time: 4.41e+00 
+Iter:   3 	 r: 1.32e-03 	 N(r): 2.79e-03 	 time: 4.45e+00 
+Iter:   4 	 r: 6.09e-07 	 N(r): 1.28e-06 	 time: 4.49e+00 
+Iter:   5 	 r: 5.17e-11 	 N(r): 1.09e-10 	 time: 4.53e+00 
+
+ STEP:    24
+Iter:   1 	 r: 4.71e-01 	 N(r): 1.00e+00 	 time: 4.57e+00 
+Iter:   2 	 r: 1.17e+00 	 N(r): 2.49e+00 	 time: 4.61e+00 
+Iter:   3 	 r: 1.84e-03 	 N(r): 3.91e-03 	 time: 4.65e+00 
+Iter:   4 	 r: 1.27e-06 	 N(r): 2.70e-06 	 time: 4.69e+00 
+Iter:   5 	 r: 4.41e-11 	 N(r): 9.37e-11 	 time: 4.73e+00 
+
+ STEP:    25
+Iter:   1 	 r: 4.66e-01 	 N(r): 1.00e+00 	 time: 4.77e+00 
+Iter:   2 	 r: 1.35e+00 	 N(r): 2.89e+00 	 time: 4.81e+00 
+Iter:   3 	 r: 2.63e-03 	 N(r): 5.65e-03 	 time: 4.85e+00 
+Iter:   4 	 r: 2.83e-06 	 N(r): 6.08e-06 	 time: 4.89e+00 
+Iter:   5 	 r: 4.67e-11 	 N(r): 1.00e-10 	 time: 4.92e+00 
+
+ STEP:    26
+Iter:   1 	 r: 4.59e-01 	 N(r): 1.00e+00 	 time: 4.97e+00 
+Iter:   2 	 r: 1.57e+00 	 N(r): 3.43e+00 	 time: 5.01e+00 
+Iter:   3 	 r: 3.87e-03 	 N(r): 8.43e-03 	 time: 5.05e+00 
+Iter:   4 	 r: 6.76e-06 	 N(r): 1.47e-05 	 time: 5.09e+00 
+Iter:   5 	 r: 3.29e-11 	 N(r): 7.16e-11 	 time: 5.12e+00 
+
+ STEP:    27
+Iter:   1 	 r: 4.51e-01 	 N(r): 1.00e+00 	 time: 5.17e+00 
+Iter:   2 	 r: 1.86e+00 	 N(r): 4.13e+00 	 time: 5.21e+00 
+Iter:   3 	 r: 5.83e-03 	 N(r): 1.29e-02 	 time: 5.24e+00 
+Iter:   4 	 r: 1.71e-05 	 N(r): 3.80e-05 	 time: 5.28e+00 
+Iter:   5 	 r: 5.10e-11 	 N(r): 1.13e-10 	 time: 5.32e+00 
+
+ STEP:    28
+Iter:   1 	 r: 4.42e-01 	 N(r): 1.00e+00 	 time: 5.36e+00 
+Iter:   2 	 r: 2.22e+00 	 N(r): 5.01e+00 	 time: 5.40e+00 
+Iter:   3 	 r: 8.85e-03 	 N(r): 2.00e-02 	 time: 5.44e+00 
+Iter:   4 	 r: 4.44e-05 	 N(r): 1.00e-04 	 time: 5.48e+00 
+Iter:   5 	 r: 4.35e-11 	 N(r): 9.85e-11 	 time: 5.52e+00 
+
+ STEP:    29
+Iter:   1 	 r: 4.56e-01 	 N(r): 1.00e+00 	 time: 5.56e+00 
+Iter:   2 	 r: 2.60e+00 	 N(r): 5.70e+00 	 time: 5.60e+00 
+Iter:   3 	 r: 1.29e-02 	 N(r): 2.84e-02 	 time: 5.64e+00 
+Iter:   4 	 r: 1.03e-04 	 N(r): 2.26e-04 	 time: 5.68e+00 
+Iter:   5 	 r: 8.86e-11 	 N(r): 1.94e-10 	 time: 5.72e+00 
+
+ STEP:    30
+Iter:   1 	 r: 6.99e-01 	 N(r): 1.00e+00 	 time: 5.76e+00 
+Iter:   2 	 r: 2.75e+00 	 N(r): 3.93e+00 	 time: 5.80e+00 
+Iter:   3 	 r: 1.66e-02 	 N(r): 2.38e-02 	 time: 5.84e+00 
+Iter:   4 	 r: 1.45e-04 	 N(r): 2.07e-04 	 time: 5.88e+00 
+Iter:   5 	 r: 1.41e-10 	 N(r): 2.01e-10 	 time: 5.92e+00 
+
+ STEP:    31
+Iter:   1 	 r: 2.19e+00 	 N(r): 1.00e+00 	 time: 5.96e+00 
+Iter:   2 	 r: 1.91e+00 	 N(r): 8.71e-01 	 time: 6.00e+00 
+Iter:   3 	 r: 1.56e-02 	 N(r): 7.13e-03 	 time: 6.04e+00 
+Iter:   4 	 r: 3.78e-05 	 N(r): 1.72e-05 	 time: 6.08e+00 
+Iter:   5 	 r: 3.50e-11 	 N(r): 1.60e-11 	 time: 6.12e+00 
+
+ STEP:    32
+Iter:   1 	 r: 6.75e+00 	 N(r): 1.00e+00 	 time: 6.16e+00 
+Iter:   2 	 r: 3.52e-01 	 N(r): 5.22e-02 	 time: 6.20e+00 
+Iter:   3 	 r: 2.08e-03 	 N(r): 3.08e-04 	 time: 6.24e+00 
+Iter:   4 	 r: 2.93e-08 	 N(r): 4.35e-09 	 time: 6.28e+00 
+Iter:   5 	 r: 4.13e-11 	 N(r): 6.13e-12 	 time: 6.32e+00 
+
+ STEP:    33
+Iter:   1 	 r: 1.05e+01 	 N(r): 1.00e+00 	 time: 6.36e+00 
+Iter:   2 	 r: 7.16e-03 	 N(r): 6.83e-04 	 time: 6.40e+00 
+Iter:   3 	 r: 2.57e-05 	 N(r): 2.45e-06 	 time: 6.44e+00 
+Iter:   4 	 r: 3.68e-11 	 N(r): 3.51e-12 	 time: 6.48e+00 
+
+ STEP:    34
+Iter:   1 	 r: 8.66e+00 	 N(r): 1.00e+00 	 time: 6.52e+00 
+Iter:   2 	 r: 2.50e-02 	 N(r): 2.89e-03 	 time: 6.56e+00 
+Iter:   3 	 r: 5.78e-04 	 N(r): 6.68e-05 	 time: 6.60e+00 
+Iter:   4 	 r: 6.90e-11 	 N(r): 7.97e-12 	 time: 6.64e+00 
+
+ STEP:    35
+Iter:   1 	 r: 6.01e+00 	 N(r): 1.00e+00 	 time: 6.68e+00 
+Iter:   2 	 r: 3.40e-01 	 N(r): 5.65e-02 	 time: 6.72e+00 
+Iter:   3 	 r: 6.37e-03 	 N(r): 1.06e-03 	 time: 6.76e+00 
+Iter:   4 	 r: 3.58e-07 	 N(r): 5.96e-08 	 time: 6.80e+00 
+Iter:   5 	 r: 3.31e-11 	 N(r): 5.51e-12 	 time: 6.84e+00 
+
+ STEP:    36
+Iter:   1 	 r: 4.63e+00 	 N(r): 1.00e+00 	 time: 6.88e+00 
+Iter:   2 	 r: 7.40e-01 	 N(r): 1.60e-01 	 time: 6.92e+00 
+Iter:   3 	 r: 9.23e-03 	 N(r): 1.99e-03 	 time: 6.96e+00 
+Iter:   4 	 r: 3.02e-06 	 N(r): 6.51e-07 	 time: 7.00e+00 
+Iter:   5 	 r: 3.63e-11 	 N(r): 7.83e-12 	 time: 7.04e+00 
+
+ STEP:    37
+Iter:   1 	 r: 4.32e+00 	 N(r): 1.00e+00 	 time: 7.08e+00 
+Iter:   2 	 r: 9.47e-01 	 N(r): 2.19e-01 	 time: 7.12e+00 
+Iter:   3 	 r: 9.18e-03 	 N(r): 2.13e-03 	 time: 7.16e+00 
+Iter:   4 	 r: 4.84e-06 	 N(r): 1.12e-06 	 time: 7.20e+00 
+Iter:   5 	 r: 3.97e-11 	 N(r): 9.20e-12 	 time: 7.24e+00 
+
+ STEP:    38
+Iter:   1 	 r: 4.95e+00 	 N(r): 1.00e+00 	 time: 7.28e+00 
+Iter:   2 	 r: 8.65e-01 	 N(r): 1.75e-01 	 time: 7.32e+00 
+Iter:   3 	 r: 7.51e-03 	 N(r): 1.52e-03 	 time: 7.36e+00 
+Iter:   4 	 r: 2.48e-06 	 N(r): 5.01e-07 	 time: 7.40e+00 
+Iter:   5 	 r: 5.18e-11 	 N(r): 1.05e-11 	 time: 7.44e+00 
+
+ STEP:    39
+Iter:   1 	 r: 6.84e+00 	 N(r): 1.00e+00 	 time: 7.48e+00 
+Iter:   2 	 r: 4.38e-01 	 N(r): 6.41e-02 	 time: 7.52e+00 
+Iter:   3 	 r: 2.53e-03 	 N(r): 3.71e-04 	 time: 7.56e+00 
+Iter:   4 	 r: 6.10e-08 	 N(r): 8.92e-09 	 time: 7.60e+00 
+Iter:   5 	 r: 2.35e-11 	 N(r): 3.43e-12 	 time: 7.64e+00 
+
+ STEP:    40
+Iter:   1 	 r: 9.96e+00 	 N(r): 1.00e+00 	 time: 7.68e+00 
+Iter:   2 	 r: 2.71e-02 	 N(r): 2.73e-03 	 time: 7.72e+00 
+Iter:   3 	 r: 1.28e-04 	 N(r): 1.29e-05 	 time: 7.76e+00 
+Iter:   4 	 r: 3.51e-11 	 N(r): 3.52e-12 	 time: 7.80e+00 
+
+ STEP:    41
+Iter:   1 	 r: 1.04e+01 	 N(r): 1.00e+00 	 time: 7.84e+00 
+Iter:   2 	 r: 1.29e-02 	 N(r): 1.25e-03 	 time: 7.88e+00 
+Iter:   3 	 r: 5.10e-04 	 N(r): 4.92e-05 	 time: 7.92e+00 
+Iter:   4 	 r: 1.92e-10 	 N(r): 1.86e-11 	 time: 7.96e+00 
+
+ STEP:    42
+Iter:   1 	 r: 5.08e+00 	 N(r): 1.00e+00 	 time: 8.00e+00 
+Iter:   2 	 r: 1.35e-01 	 N(r): 2.66e-02 	 time: 8.04e+00 
+Iter:   3 	 r: 2.77e-03 	 N(r): 5.44e-04 	 time: 8.08e+00 
+Iter:   4 	 r: 1.79e-08 	 N(r): 3.52e-09 	 time: 8.12e+00 
+Iter:   5 	 r: 3.42e-11 	 N(r): 6.72e-12 	 time: 8.16e+00 
+
+ STEP:    43
+Iter:   1 	 r: 1.49e+00 	 N(r): 1.00e+00 	 time: 8.20e+00 
+Iter:   2 	 r: 1.05e+00 	 N(r): 7.07e-01 	 time: 8.24e+00 
+Iter:   3 	 r: 1.22e-04 	 N(r): 8.20e-05 	 time: 8.28e+00 
+Iter:   4 	 r: 6.46e-08 	 N(r): 4.34e-08 	 time: 8.32e+00 
+Iter:   5 	 r: 4.50e-11 	 N(r): 3.02e-11 	 time: 8.36e+00 
+
+ STEP:    44
+Iter:   1 	 r: 5.51e-01 	 N(r): 1.00e+00 	 time: 8.40e+00 
+Iter:   2 	 r: 1.74e+00 	 N(r): 3.16e+00 	 time: 8.44e+00 
+Iter:   3 	 r: 2.33e-03 	 N(r): 4.23e-03 	 time: 8.48e+00 
+Iter:   4 	 r: 6.33e-06 	 N(r): 1.15e-05 	 time: 8.52e+00 
+Iter:   5 	 r: 4.16e-11 	 N(r): 7.55e-11 	 time: 8.56e+00 
+
+ STEP:    45
+Iter:   1 	 r: 4.33e-01 	 N(r): 1.00e+00 	 time: 8.60e+00 
+Iter:   2 	 r: 1.84e+00 	 N(r): 4.24e+00 	 time: 8.64e+00 
+Iter:   3 	 r: 3.71e-03 	 N(r): 8.56e-03 	 time: 8.68e+00 
+Iter:   4 	 r: 9.98e-06 	 N(r): 2.30e-05 	 time: 8.72e+00 
+Iter:   5 	 r: 3.37e-11 	 N(r): 7.78e-11 	 time: 8.76e+00 
+
+ STEP:    46
+Iter:   1 	 r: 4.38e-01 	 N(r): 1.00e+00 	 time: 8.80e+00 
+Iter:   2 	 r: 1.69e+00 	 N(r): 3.85e+00 	 time: 8.84e+00 
+Iter:   3 	 r: 3.33e-03 	 N(r): 7.60e-03 	 time: 8.88e+00 
+Iter:   4 	 r: 6.52e-06 	 N(r): 1.49e-05 	 time: 8.92e+00 
+Iter:   5 	 r: 3.93e-11 	 N(r): 8.97e-11 	 time: 8.96e+00 
+
+ STEP:    47
+Iter:   1 	 r: 4.50e-01 	 N(r): 1.00e+00 	 time: 9.00e+00 
+Iter:   2 	 r: 1.49e+00 	 N(r): 3.31e+00 	 time: 9.04e+00 
+Iter:   3 	 r: 2.58e-03 	 N(r): 5.73e-03 	 time: 9.08e+00 
+Iter:   4 	 r: 3.39e-06 	 N(r): 7.54e-06 	 time: 9.12e+00 
+Iter:   5 	 r: 3.58e-11 	 N(r): 7.96e-11 	 time: 9.16e+00 
+
+ STEP:    48
+Iter:   1 	 r: 4.59e-01 	 N(r): 1.00e+00 	 time: 9.20e+00 
+Iter:   2 	 r: 1.30e+00 	 N(r): 2.84e+00 	 time: 9.24e+00 
+Iter:   3 	 r: 1.92e-03 	 N(r): 4.17e-03 	 time: 9.28e+00 
+Iter:   4 	 r: 1.68e-06 	 N(r): 3.66e-06 	 time: 9.32e+00 
+Iter:   5 	 r: 2.76e-11 	 N(r): 6.02e-11 	 time: 9.36e+00 
+
+ STEP:    49
+Iter:   1 	 r: 4.66e-01 	 N(r): 1.00e+00 	 time: 9.40e+00 
+Iter:   2 	 r: 1.15e+00 	 N(r): 2.46e+00 	 time: 9.45e+00 
+Iter:   3 	 r: 1.42e-03 	 N(r): 3.04e-03 	 time: 9.49e+00 
+Iter:   4 	 r: 8.41e-07 	 N(r): 1.80e-06 	 time: 9.53e+00 
+Iter:   5 	 r: 3.82e-11 	 N(r): 8.20e-11 	 time: 9.59e+00 
+
+ STEP:    50
+Iter:   1 	 r: 4.71e-01 	 N(r): 1.00e+00 	 time: 9.63e+00 
+Iter:   2 	 r: 1.01e+00 	 N(r): 2.15e+00 	 time: 9.67e+00 
+Iter:   3 	 r: 1.06e-03 	 N(r): 2.25e-03 	 time: 9.71e+00 
+Iter:   4 	 r: 4.36e-07 	 N(r): 9.24e-07 	 time: 9.75e+00 
+Iter:   5 	 r: 3.84e-11 	 N(r): 8.15e-11 	 time: 9.79e+00 

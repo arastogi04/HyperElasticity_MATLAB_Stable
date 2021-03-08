@@ -1,0 +1,84 @@
+
+ FES - Finite Element Solver 
+ MATLAB version 3/23/2015 
+ v1 end date: 4/3/2015 
+
+
+ v2 w/ parallel feature,end date: 4/6/2015 
+
+
+ 
+Element type:     BRICK8 	 Node Number per element:  8 
+Total node number:    512 	 Total element number:    343
+
+ 
+
+ STEP:     1
+Iter:   1 	 r: 2.09e+01 	 N(r): 1.00e+00 	 time: 8.86e+00 
+Iter:   2 	 r: 2.14e-01 	 N(r): 1.03e-02 	 time: 9.16e+00 
+Iter:   3 	 r: 3.00e-04 	 N(r): 1.44e-05 	 time: 9.41e+00 
+Iter:   4 	 r: 3.52e-07 	 N(r): 1.69e-08 	 time: 9.67e+00 
+Iter:   5 	 r: 5.99e-14 	 N(r): 2.87e-15 	 time: 9.94e+00 
+
+ STEP:     2
+Iter:   1 	 r: 1.91e+01 	 N(r): 1.00e+00 	 time: 1.02e+01 
+Iter:   2 	 r: 2.02e-01 	 N(r): 1.06e-02 	 time: 1.05e+01 
+Iter:   3 	 r: 2.38e-04 	 N(r): 1.24e-05 	 time: 1.08e+01 
+Iter:   4 	 r: 2.34e-07 	 N(r): 1.23e-08 	 time: 1.10e+01 
+Iter:   5 	 r: 5.35e-14 	 N(r): 2.80e-15 	 time: 1.13e+01 
+
+ STEP:     3
+Iter:   1 	 r: 1.76e+01 	 N(r): 1.00e+00 	 time: 1.15e+01 
+Iter:   2 	 r: 1.91e-01 	 N(r): 1.09e-02 	 time: 1.18e+01 
+Iter:   3 	 r: 1.90e-04 	 N(r): 1.08e-05 	 time: 1.21e+01 
+Iter:   4 	 r: 1.50e-07 	 N(r): 8.52e-09 	 time: 1.23e+01 
+Iter:   5 	 r: 5.84e-14 	 N(r): 3.31e-15 	 time: 1.26e+01 
+
+ STEP:     4
+Iter:   1 	 r: 1.63e+01 	 N(r): 1.00e+00 	 time: 1.29e+01 
+Iter:   2 	 r: 1.81e-01 	 N(r): 1.11e-02 	 time: 1.31e+01 
+Iter:   3 	 r: 1.53e-04 	 N(r): 9.38e-06 	 time: 1.34e+01 
+Iter:   4 	 r: 9.38e-08 	 N(r): 5.74e-09 	 time: 1.36e+01 
+Iter:   5 	 r: 6.73e-14 	 N(r): 4.12e-15 	 time: 1.39e+01 
+
+ STEP:     5
+Iter:   1 	 r: 1.52e+01 	 N(r): 1.00e+00 	 time: 1.41e+01 
+Iter:   2 	 r: 1.72e-01 	 N(r): 1.13e-02 	 time: 1.44e+01 
+Iter:   3 	 r: 1.25e-04 	 N(r): 8.20e-06 	 time: 1.46e+01 
+Iter:   4 	 r: 5.76e-08 	 N(r): 3.78e-09 	 time: 1.49e+01 
+Iter:   5 	 r: 6.07e-14 	 N(r): 3.98e-15 	 time: 1.52e+01 
+
+ STEP:     6
+Iter:   1 	 r: 1.43e+01 	 N(r): 1.00e+00 	 time: 1.54e+01 
+Iter:   2 	 r: 1.63e-01 	 N(r): 1.14e-02 	 time: 1.57e+01 
+Iter:   3 	 r: 1.03e-04 	 N(r): 7.18e-06 	 time: 1.60e+01 
+Iter:   4 	 r: 3.52e-08 	 N(r): 2.46e-09 	 time: 1.62e+01 
+Iter:   5 	 r: 6.30e-14 	 N(r): 4.42e-15 	 time: 1.65e+01 
+
+ STEP:     7
+Iter:   1 	 r: 1.34e+01 	 N(r): 1.00e+00 	 time: 1.68e+01 
+Iter:   2 	 r: 1.55e-01 	 N(r): 1.15e-02 	 time: 1.70e+01 
+Iter:   3 	 r: 8.49e-05 	 N(r): 6.32e-06 	 time: 1.73e+01 
+Iter:   4 	 r: 2.16e-08 	 N(r): 1.61e-09 	 time: 1.75e+01 
+Iter:   5 	 r: 6.78e-14 	 N(r): 5.04e-15 	 time: 1.77e+01 
+
+ STEP:     8
+Iter:   1 	 r: 1.27e+01 	 N(r): 1.00e+00 	 time: 1.80e+01 
+Iter:   2 	 r: 1.47e-01 	 N(r): 1.16e-02 	 time: 1.83e+01 
+Iter:   3 	 r: 7.09e-05 	 N(r): 5.58e-06 	 time: 1.85e+01 
+Iter:   4 	 r: 1.38e-08 	 N(r): 1.08e-09 	 time: 1.87e+01 
+Iter:   5 	 r: 7.02e-14 	 N(r): 5.52e-15 	 time: 1.90e+01 
+
+ STEP:     9
+Iter:   1 	 r: 1.21e+01 	 N(r): 1.00e+00 	 time: 1.92e+01 
+Iter:   2 	 r: 1.40e-01 	 N(r): 1.16e-02 	 time: 1.94e+01 
+Iter:   3 	 r: 5.98e-05 	 N(r): 4.95e-06 	 time: 1.97e+01 
+Iter:   4 	 r: 9.31e-09 	 N(r): 7.71e-10 	 time: 1.99e+01 
+Iter:   5 	 r: 7.49e-14 	 N(r): 6.20e-15 	 time: 2.02e+01 
+
+ STEP:    10
+Iter:   1 	 r: 1.15e+01 	 N(r): 1.00e+00 	 time: 2.04e+01 
+Iter:   2 	 r: 1.33e-01 	 N(r): 1.16e-02 	 time: 2.07e+01 
+Iter:   3 	 r: 5.09e-05 	 N(r): 4.41e-06 	 time: 2.09e+01 
+Iter:   4 	 r: 6.85e-09 	 N(r): 5.94e-10 	 time: 2.12e+01 
+Iter:   5 	 r: 7.59e-14 	 N(r): 6.58e-15 	 time: 2.14e+01 
